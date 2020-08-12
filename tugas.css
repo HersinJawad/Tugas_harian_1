@@ -1,0 +1,35 @@
+body {
+    background-image: url(imagination.jpg);
+    background-size: 1400px;
+
+}
+.th1 {
+    padding: 10px;
+    background-position: center;
+    background-color: wheat;
+    width: 250px;
+}
+
+.table{
+    border: "1";
+    border-width: 5px;
+}
+
+.tab1{
+    background-color: lightseagreen;
+}
+
+.tab2{
+    background-color: blue;
+}
+
+.tim{
+ background-color: yellow;
+}
+.rest{
+    background-color: red;
+}
+
+.map{
+    background-color: white;
+}

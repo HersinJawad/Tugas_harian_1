@@ -1,0 +1,1 @@
+window.alert("Tugas Harian 1 Muhammad Hersin Jawad")
